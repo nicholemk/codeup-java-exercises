@@ -1,4 +1,4 @@
-public class restaurant {
+public class Restaurant {
     public static void main(String[] args) {
         RestaurantDish = new RestaurantDish();
         dish.costInCents = 1000;

@@ -1,7 +1,7 @@
 package movies;
 
-public class MoviesApplication {
-    private MoviesApplication() {
+import util.Input;
 
-    }
+public class MoviesApplication {
+
 }

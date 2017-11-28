@@ -1,3 +1,5 @@
+import java.util.Random;
+
 public class ServerNameGenerator {
     public static void main(String[] args) {
         String[] anArray;
@@ -31,6 +33,7 @@ public class ServerNameGenerator {
         anotherArray[8] = "two";
         anotherArray[9] = "three";
 
+
         System.out.println("Element at index 0: "
                 + anArray[0]);
         System.out.println("Element at index 1: "
@@ -52,7 +55,8 @@ public class ServerNameGenerator {
         System.out.println("Element at index 9: "
                 + anotherArray[9]);
 
-
-
+        String random;
+        switch (random = anArray[new Random[].nextIt(anArray.length)]) {
+        }
     }
 }

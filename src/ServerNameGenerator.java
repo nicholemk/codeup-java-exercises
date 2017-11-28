@@ -1,4 +1,4 @@
-import java.util.Random;
+//import java.util.Random;
 
 public class ServerNameGenerator {
     public static void main(String[] args) {
@@ -55,8 +55,8 @@ public class ServerNameGenerator {
         System.out.println("Element at index 9: "
                 + anotherArray[9]);
 
-        String random;
-        switch (random = anArray[new Random[].nextIt(anArray.length)]) {
+//        String random;
+//        switch (random = anArray[new Random[].nextIt(anArray.length)]) {
         }
     }
-}
+//}
